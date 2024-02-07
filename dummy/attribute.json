@@ -1,0 +1,60 @@
+[
+    {
+        "title": {
+            "en": "English Title 1",
+            "fr": "French Title 1"
+        },
+        "name": {
+            "en": "Attribute Name 1",
+            "fr": "Nom de l'attribut 1"
+        },
+        "variants": [
+            {
+                "name": {
+                    "en": "Variant 1",
+                    "fr": "Variante 1"
+                },
+                "status": "show"
+            },
+            {
+                "name": {
+                    "en": "Variant 2",
+                    "fr": "Variante 2"
+                },
+                "status": "show"
+            }
+        ],
+        "option": "Dropdown",
+        "type": "attribute",
+        "status": "show"
+    },
+    {
+        "title": {
+            "en": "English Title 2",
+            "fr": "French Title 2"
+        },
+        "name": {
+            "en": "Attribute Name 2",
+            "fr": "Nom de l'attribut 2"
+        },
+        "variants": [
+            {
+                "name": {
+                    "en": "Variant 1",
+                    "fr": "Variante 1"
+                },
+                "status": "show"
+            },
+            {
+                "name": {
+                    "en": "Variant 2",
+                    "fr": "Variante 2"
+                },
+                "status": "show"
+            }
+        ],
+        "option": "Radio",
+        "type": "attribute",
+        "status": "show"
+    }
+]

@@ -1,0 +1,1 @@
+{"version":3,"file":"formatByteToMB.js","sourceRoot":"","sources":["../../src/utils/formatByteToMB.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,eAAe,GAAG,CAAC,KAAa,EAAU,EAAE;IACrD,MAAM,SAAS,GAAG,KAAK,GAAG,CAAC,IAAI,GAAG,IAAI,CAAC,CAAC,CAAC,6BAA6B;IACtE,OAAO,SAAS,CAAC,OAAO,CAAC,CAAC,CAAC,GAAG,KAAK,CAAC,CAAC,uCAAuC;AAChF,CAAC,CAAC"}

@@ -1,0 +1,4 @@
+manufacture,brand,product,Variant,PlantName,BatchNumber,SerialNumber,TagNumber,TagActive,DS1,DS2,Status,OwnerMobile,CreatedAt
+Al-Pak-M,Al-Naseeb,Mobile App,yellow,-,ABC12,1,,false,DS1/Al-Naseeb_65be07b4126ecb863aef626e_ABC12_1,DS2/Al-Naseeb_65be07b4126ecb863aef626e_ABC12_1,show,-,2024-02-07T02:28:28.209Z
+Al-Pak-M,Al-Naseeb,Mobile App,yellow,-,ABC12,2,,false,DS1/Al-Naseeb_65be07b4126ecb863aef626e_ABC12_2,DS2/Al-Naseeb_65be07b4126ecb863aef626e_ABC12_2,show,-,2024-02-07T02:28:28.519Z
+Al-Pak-M,Al-Naseeb,Mobile App,yellow,-,ABC12,3,,false,DS1/Al-Naseeb_65be07b4126ecb863aef626e_ABC12_3,DS2/Al-Naseeb_65be07b4126ecb863aef626e_ABC12_3,show,-,2024-02-07T02:28:28.841Z

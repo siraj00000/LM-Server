@@ -1,0 +1,1 @@
+{"version":3,"file":"product_detail.router.js","sourceRoot":"","sources":["../../src/routers/product_detail.router.ts"],"names":[],"mappings":"AAAA,OAAO,OAAmB,MAAM,SAAS,CAAC;AAC1C,OAAO,yBAAyB,MAAM,8CAA8C,CAAC;AACrF,MAAM,mBAAmB,GAAW,OAAO,CAAC,MAAM,EAAE,CAAC;AAErD,mBAAmB;KACd,GAAG,CAAC,aAAa,EAAE,yBAAyB,CAAC,iBAAiB,CAAC,CAAC;AAGrE,eAAe,mBAAmB,CAAC"}

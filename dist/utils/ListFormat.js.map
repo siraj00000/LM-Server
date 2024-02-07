@@ -1,0 +1,1 @@
+{"version":3,"file":"ListFormat.js","sourceRoot":"","sources":["../../src/utils/ListFormat.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,UAAU,GAAG,CAAC,SAAc,EAAE,EAAE;IACzC,IAAG,OAAO,SAAS,KAAK,QAAQ,EAAC;QAC7B,OAAO,SAAS,CAAC,KAAK,CAAC,GAAG,CAAC,CAAA;KAC9B;IAED,OAAO,SAAS,CAAA;AACpB,CAAC,CAAA"}

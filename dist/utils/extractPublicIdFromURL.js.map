@@ -1,0 +1,1 @@
+{"version":3,"file":"extractPublicIdFromURL.js","sourceRoot":"","sources":["../../src/utils/extractPublicIdFromURL.ts"],"names":[],"mappings":"AAAA,8CAA8C;AAC9C,MAAM,UAAU,sBAAsB,CAAC,GAAW;IAC9C,MAAM,KAAK,GAAG,qBAAqB,CAAC,IAAI,CAAC,GAAG,CAAC,CAAC;IAC9C,OAAO,KAAK,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC;AACnC,CAAC"}
